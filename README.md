@@ -37,8 +37,11 @@ Principais características:
 ## 🛠️ Tecnologias
 
 HTML5
+
 CSS3
+
 JavaScript
+
 Swiper.js
 
 ## 🚀 Status do projeto
@@ -53,10 +56,15 @@ com o objetivo de aplicar na prática conceitos de desenvolvimento front-end, co
 Estrutura do projeto
 
 index.html
+
 login.html
+
 style.css
+
 login.css
+
 script.js
+
 /images
 
 ## 👨‍💻 Desenvolvedores
