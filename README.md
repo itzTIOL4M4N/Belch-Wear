@@ -36,11 +36,28 @@ Principais características:
 
 ## 🛠️ Tecnologias
 
-As tecnologias utilizadas serão documentadas conforme a implementação do projeto.
+HTML5
+CSS3
+JavaScript
+Swiper.js
 
 ## 🚀 Status do projeto
 
 **Em desenvolvimento.**
+
+Contexto acadêmico
+
+Projeto desenvolvido para fins acadêmicos no curso de Análise e Desenvolvimento de Sistemas,
+com o objetivo de aplicar na prática conceitos de desenvolvimento front-end, construção de interfaces e responsividade.
+
+Estrutura do projeto
+
+index.html
+login.html
+style.css
+login.css
+script.js
+/images
 
 ## 👨‍💻 Desenvolvedores
 
