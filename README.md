@@ -48,12 +48,12 @@ Swiper.js
 
 **Em desenvolvimento.**
 
-Contexto acadêmico
+## Contexto acadêmico
 
 Projeto desenvolvido para fins acadêmicos no curso de Análise e Desenvolvimento de Sistemas,
 com o objetivo de aplicar na prática conceitos de desenvolvimento front-end, construção de interfaces e responsividade.
 
-Estrutura do projeto
+## Estrutura do projeto
 
 index.html
 
